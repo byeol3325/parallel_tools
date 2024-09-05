@@ -1,6 +1,6 @@
 # Parallelism Tool for C++
 
-This repository contains a tool designed to optimize and experiment with parallel processing in C++ using `std::thread`. The primary objective of this tool is to identify which functions or computations can be parallelized safely without causing data races, deadlocks, or other concurrency-related issues.
+This repository contains a tool designed to optimize and experiment with **parallel processing in C++** using `std::thread`. The primary objective of this tool is to identify which functions or computations can be parallelized safely without causing data races, deadlocks, or other concurrency-related issues.
 
 ## Features
 
