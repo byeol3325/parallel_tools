@@ -13,6 +13,11 @@ This repository contains a tool designed to optimize and experiment with paralle
 
 The **ThreadPool.hpp** library is a set of tools designed for **efficient thread reuse.** It provides a thread pool implementation that allows tasks to be enqueued and executed by a pool of worker threads, optimizing performance by minimizing the overhead associated with creating and destroying threads. In a previous project, I **increased processing speed by about 30 percent through thread reuse.** This highlights the significant difference in performance depending on how effectively threads are reused.
 
+[Windows_BALM_Enhanced](https://github.com/byeol3325/Windows-BALM-Enhanced-Time-Performance)
+
+This is a project where I **applied threads** and significantly **improved time performance by up to 55% compared to not using any threads.**
+
+
 ## Getting Started
 
 ### Prerequisites
